@@ -1,3 +1,3 @@
 # sql_files
 
-finall
+finally

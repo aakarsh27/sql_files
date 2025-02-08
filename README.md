@@ -1,3 +1,3 @@
 # sql_files
 
-finally i have a reposito
+finally i have a repositor
